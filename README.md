@@ -12,6 +12,10 @@ Azureネットワーク学習の一環として、`rg-azure-web`リソースグ�
 
 ## 使用ツール
 - Azureポータル
--
+- draw.io（構成図作成）
+
+## 補足
+このプロジェクトは、Qiita記事「初めてのAzure VM構築記録」と連携しています。
+
 ## アーキテクチャ
 - ![RG~VMまで drawio](https://github.com/user-attachments/assets/a8ad9988-72e4-4b1b-9c36-34f9b982955b)
